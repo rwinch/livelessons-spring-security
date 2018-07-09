@@ -1,0 +1,3 @@
+:compat-mode:
+
+Spring Security Live Lessons Code
