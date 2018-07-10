@@ -25,5 +25,6 @@
 	<modules>
 		<module>livelessons-parent</module>
 		<module>insecure</module>
+		<module>hello-security</module>
 	</modules>
 </project>
